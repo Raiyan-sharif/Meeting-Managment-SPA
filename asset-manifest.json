@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Meeting-Managment-SPA/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Meeting-Managment-SPA/static/js/main.ce922f9e.chunk.js",
-    "main.js.map": "/Meeting-Managment-SPA/static/js/main.ce922f9e.chunk.js.map",
+    "main.css": "/Meeting-Managment-SPA/static/css/main.2f75a8a6.chunk.css",
+    "main.js": "/Meeting-Managment-SPA/static/js/main.518236ab.chunk.js",
+    "main.js.map": "/Meeting-Managment-SPA/static/js/main.518236ab.chunk.js.map",
     "runtime-main.js": "/Meeting-Managment-SPA/static/js/runtime-main.ac2c2787.js",
     "runtime-main.js.map": "/Meeting-Managment-SPA/static/js/runtime-main.ac2c2787.js.map",
-    "static/js/2.c21eb534.chunk.js": "/Meeting-Managment-SPA/static/js/2.c21eb534.chunk.js",
-    "static/js/2.c21eb534.chunk.js.map": "/Meeting-Managment-SPA/static/js/2.c21eb534.chunk.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/Meeting-Managment-SPA/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.9141c102.chunk.js": "/Meeting-Managment-SPA/static/js/2.9141c102.chunk.js",
+    "static/js/2.9141c102.chunk.js.map": "/Meeting-Managment-SPA/static/js/2.9141c102.chunk.js.map",
     "index.html": "/Meeting-Managment-SPA/index.html",
-    "precache-manifest.cdfa858e16fb928cdae485b051146e26.js": "/Meeting-Managment-SPA/precache-manifest.cdfa858e16fb928cdae485b051146e26.js",
+    "precache-manifest.76b4d8f90cedc504d7070d19a534008a.js": "/Meeting-Managment-SPA/precache-manifest.76b4d8f90cedc504d7070d19a534008a.js",
     "service-worker.js": "/Meeting-Managment-SPA/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Meeting-Managment-SPA/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c21eb534.chunk.js.LICENSE.txt": "/Meeting-Managment-SPA/static/js/2.c21eb534.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Meeting-Managment-SPA/static/media/logo.5d5d9eef.svg"
+    "static/css/2.f3cffc9e.chunk.css.map": "/Meeting-Managment-SPA/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.2f75a8a6.chunk.css.map": "/Meeting-Managment-SPA/static/css/main.2f75a8a6.chunk.css.map",
+    "static/js/2.9141c102.chunk.js.LICENSE.txt": "/Meeting-Managment-SPA/static/js/2.9141c102.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ac2c2787.js",
-    "static/js/2.c21eb534.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ce922f9e.chunk.js"
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.9141c102.chunk.js",
+    "static/css/main.2f75a8a6.chunk.css",
+    "static/js/main.518236ab.chunk.js"
   ]
 }
