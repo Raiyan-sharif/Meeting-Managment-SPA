@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59735d46f9f1ba693ee8810b1a09f2d0",
+    "revision": "69f0c5f5f95b8c379671ef10936bf5e0",
     "url": "/Meeting-Managment-SPA/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meeting-Managment-SPA/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "de48d1dfe5933b5d2a70",
+    "revision": "4c50bb51e362aca85c5f",
     "url": "/Meeting-Managment-SPA/static/css/main.22ef33a2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meeting-Managment-SPA/static/js/2.c7769593.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de48d1dfe5933b5d2a70",
-    "url": "/Meeting-Managment-SPA/static/js/main.3d4accd0.chunk.js"
+    "revision": "4c50bb51e362aca85c5f",
+    "url": "/Meeting-Managment-SPA/static/js/main.b201c192.chunk.js"
   },
   {
     "revision": "9e5bd5850c1d79788edd",
